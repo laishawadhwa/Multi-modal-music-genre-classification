@@ -1,7 +1,5 @@
-## CGM Course project
-Faculty Instructor: Dr. Prerana Mukherjee 
-
-Project Title: Music Genre classification using Deep Neural Networks (Group no. 4) 
+## Music genre classification using multi-modal deeplearning based fusion
+Laisha Wadhwa and Dr. Prerana Mukherjee 
 
 Problem Statement: To develop a compact yet effective music genre classification system which can be used in recommendation systems (like Spotify and Gaana) [low computation at inference time] using multi modal feature fusion. 
 
